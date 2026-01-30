@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my professional personal website. Here you can find information such as my publications, portfolio, blog posts, and CV.
+Hello! Welcome to my professional personal website. Here you can find information such as my publications, portfolio, blog posts, and CV. This website is currently a work in progress. Right now there is only my personal information and the About Me page.
 
 Computer Engineering
 ======
